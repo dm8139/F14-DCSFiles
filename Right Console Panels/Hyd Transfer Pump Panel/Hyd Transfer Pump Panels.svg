@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Panel (Hyd Transfer Pump).svg">
+  <defs
+     id="defs2">
+    <rect
+       x="64.822917"
+       y="93.927083"
+       width="18.520833"
+       height="12.7"
+       id="rect916" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="345.70985"
+     inkscape:cy="653.31719"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text914"
+       style="line-height:1.25;font-family:'MS 33558';font-size:9.87777778px;-inkscape-font-specification:'MS 33558, ';white-space:pre;shape-inside:url(#rect916);" />
+    <path
+       id="rect5154"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 41.506858,196.93037 v 9.93324 2.44585 2.44533 c 0,5.57011 -4.459906,10.05469 -9.999905,10.05469 h -9.879501 v 13.49995 h 9.878982 c 5.540002,0 9.999908,4.48456 9.999908,10.05467 v 2.44533 2.44586 9.93324 H 172.95723 v -9.93324 -2.44586 -2.44533 c 0,-5.57011 4.45991,-10.05467 9.99991,-10.05467 h 9.87898 v -13.49995 h -9.87898 c -5.54,0 -9.99991,-4.48458 -9.99991,-10.05469 v -2.44532 -2.44585 -9.93324 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+       x="60.487679"
+       y="204.82826"
+       id="text896"><tspan
+         sodipodi:role="line"
+         x="60.487679"
+         y="204.82826"
+         style="font-size:3.52778px;fill:#00ff00;stroke-width:0.264583"
+         id="tspan900">hyd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+       x="60.487679"
+       y="210.91223"
+       id="text908"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="60.487679"
+         y="210.91223"
+         style="font-size:4.23333px;fill:#00ff00;stroke-width:0.264583"><tspan
+           style="font-size:3.52778px;fill:#00ff00"
+           id="tspan1194">t</tspan><tspan
+           style="font-size:3.52778px;fill:#00ff00"
+           id="tspan1192">ransfer</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+       x="60.487679"
+       y="216.46992"
+       id="text912"><tspan
+         sodipodi:role="line"
+         id="tspan910"
+         x="60.487679"
+         y="216.46992"
+         style="font-size:3.52778px;fill:#00ff00;stroke-width:0.264583">pump</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+       x="66.145828"
+       y="230.22829"
+       id="text926"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="66.145828"
+         y="230.22829"
+         style="font-size:3.52778px;fill:#00ff00;stroke-width:0.264583">shutoff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+       x="67.99408"
+       y="245.22"
+       id="text926-3"><tspan
+         sodipodi:role="line"
+         id="tspan924-9"
+         x="67.99408"
+         y="245.22"
+         style="font-size:3.52778px;fill:#00ff00;stroke-width:0.264583">normal</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.272146"
+       id="rect952"
+       width="22"
+       height="60"
+       x="89.881783"
+       y="198.55945" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196"
+       cx="51.064587"
+       cy="203.63763"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-0"
+       cx="51.064587"
+       cy="251.26263"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-2"
+       cx="161.39581"
+       cy="203.63763"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-5"
+       cx="161.39581"
+       cy="251.26265"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-1"
+       cx="41.728634"
+       cy="97.051109"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-0-7"
+       cx="41.728634"
+       cy="144.6761"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-2-8"
+       cx="152.05984"
+       cy="97.051109"
+       r="3.175" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.25"
+       id="path1196-5-8"
+       cx="152.05984"
+       cy="144.6761"
+       r="3.175" />
+    <g
+       id="g2422-6"
+       transform="translate(-9.3359537,-106.58653)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.249328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect892-8-1"
+         width="171.20067"
+         height="63.250675"
+         x="21.631453"
+         y="196.93411" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.333333"
+         id="path1001-9"
+         cx="31.63179"
+         cy="209.43445"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.333333"
+         id="path1001-6-1"
+         cx="31.63179"
+         cy="247.93445"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.333333"
+         id="path1001-6-8-4"
+         cx="183.08177"
+         cy="247.93445"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.333333"
+         id="path1001-6-0-5"
+         cx="183.08177"
+         cy="209.43445"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.293031"
+         id="path997-6"
+         cx="101.00678"
+         cy="234.76984"
+         r="6.3499999" />
+    </g>
+  </g>
+</svg>
