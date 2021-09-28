@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg879"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="HUD Camera Bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview881"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="396.67505"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs876" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1116">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.249328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect60929-0"
+         width="152.15067"
+         height="66.425674"
+         x="40.150181"
+         y="75.868355" />
+      <path
+         id="path61051-0"
+         style="fill:#ff0000;stroke-width:0.186846"
+         d="m 53.325425,132.54379 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.175,-3.175 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-9-6"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(1,-1)"
+         d="m 53.325425,-85.868584 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.175,-3.175 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-26"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1,1)"
+         d="m -179.37558,132.54379 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.175,-3.175 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-2-3"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1)"
+         d="m -179.37558,-85.868576 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.175,-3.175 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-2-1-9"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1)"
+         d="m -155.92794,-134.00308 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.175,-3.175 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-2-1-5-7"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1)"
+         d="m -155.92794,-84.522758 a 3.175,3.175 0 0 1 -3.175,3.174999 3.175,3.175 0 0 1 -3.175,-3.174999 3.175,3.175 0 0 1 3.175,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-2-1-5-0-8"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1)"
+         d="m -70.498882,-84.522751 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.174999,-3.175 3.175,3.175 0 0 1 3.174999,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path61051-4-2-1-4-1"
+         style="fill:#ff0000;stroke-width:0.186846"
+         transform="scale(-1)"
+         d="m -70.498882,-134.00308 a 3.175,3.175 0 0 1 -3.175,3.175 3.175,3.175 0 0 1 -3.174999,-3.175 3.175,3.175 0 0 1 3.174999,-3.175 3.175,3.175 0 0 1 3.175,3.175 z" />
+      <path
+         id="path14048-8"
+         style="fill:#ff0000;stroke-width:0.170394"
+         d="m 122.70053,109.20618 a 6.3499999,6.3499999 0 0 1 -6.35,6.35 6.3499999,6.3499999 0 0 1 -6.35,-6.35 6.3499999,6.3499999 0 0 1 6.35,-6.35 6.3499999,6.3499999 0 0 1 6.35,6.35 z" />
+    </g>
+  </g>
+</svg>
